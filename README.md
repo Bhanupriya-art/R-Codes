@@ -14,3 +14,8 @@ Use the following command to clone the repository to your local machine:
 ```
 git clone https://github.com/Bhanupriya-art/R-Codes.git
 ```
+3. **Navigate to the Repository:**<br>
+Once the cloning process is complete, navigate into the cloned repository directory:
+```
+cd R-Codes
+```
