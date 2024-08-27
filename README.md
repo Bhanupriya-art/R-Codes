@@ -4,7 +4,7 @@ Welcome to my R programming repository! Here, you'll find a collection of exerci
 # How to Use
 To explore the projects and access the code, simply clone this repository to your local machine. Each project folder contains the necessary R scripts and accompanying data files. Feel free to modify and experiment with the code to suit your needs.
 
-## Cloning the Repository
+# Cloning the Repository
 To get started with the projects in this repository, follow these steps to clone it to your local machine:
 
 1. **Open Terminal (Mac/Linux) or Command Prompt (Windows):**<br>
